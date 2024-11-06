@@ -1,0 +1,9 @@
+/* Kaua Stanize 3C 5/11/2024 */
+hr {
+    margin: 0;
+}
+
+.rodapé {
+    background-color: var(--branco);
+    padding: 1em;
+}
